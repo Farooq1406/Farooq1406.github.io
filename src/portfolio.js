@@ -9,7 +9,7 @@ const about = {
   name: 'Farooq Alvi',
   role: 'Digital Marketing',
   description:
-    'responsible for implementing, overseeing, and managing digital marketing strategies that advance an organization's mission by reaching a broad audience and attaining greater exposure',
+    'responsible for implementing, overseeing, and managing digital marketing strategies that advance an organizations mission by reaching a broad audience and attaining greater exposure',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/farooq-alvi/',
