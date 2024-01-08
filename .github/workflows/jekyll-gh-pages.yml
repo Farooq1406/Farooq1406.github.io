@@ -52,7 +52,7 @@ jobs:
         working-directory: ./
       - name: Build with Yarn
         run: |
-          git remote set-url origin https://fra1406:${{ secrets.GITHUB_TOKEN }}@github.com/fra1406/fra1406.github.io/
+          git remote set-url origin https://Farooq1406:${{ secrets.GITHUB_TOKEN }}@github.com/Farooq1406/Farooq1406.github.io/
           git config --global user.name 'Farooq Alvi'
           git config --global user.email 'farooqjune@gmail.com'
           export NODE_OPTIONS=--openssl-legacy-provider
